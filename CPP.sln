@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Введение", "1. Введение", "{FA48CDA2-7E69-45C9-B322-48FA570CF49A}"
+	ProjectSection(SolutionItems) = preProject
+		1. Введение.md = 1. Введение.md
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Intro", "Intro\Intro.vcxproj", "{D4409152-318E-47D3-883D-EFAC9996A93F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Условные конструкции", "2. Условные конструкции", "{21338D83-BF09-4359-9536-08FD6BFCF7D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stepik", "Stepik", "{00A19707-DD20-4520-AD29-6D808ACECC27}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task_1_8_3", "Task_1_8_3\Task_1_8_3.vcxproj", "{AC133936-A565-481F-AE7F-D277533FF543}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task_1_8_5", "Task_1_8_5\Task_1_8_5.vcxproj", "{CA92B15E-E666-4062-A657-D1911070191C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D4409152-318E-47D3-883D-EFAC9996A93F} = {FA48CDA2-7E69-45C9-B322-48FA570CF49A}
+		{AC133936-A565-481F-AE7F-D277533FF543} = {00A19707-DD20-4520-AD29-6D808ACECC27}
+		{CA92B15E-E666-4062-A657-D1911070191C} = {00A19707-DD20-4520-AD29-6D808ACECC27}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4409152-318E-47D3-883D-EFAC9996A93F}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{D4409152-318E-47D3-883D-EFAC9996A93F}.Debug|Any CPU.Build.0 = Debug|Win32
+		{D4409152-318E-47D3-883D-EFAC9996A93F}.Release|Any CPU.ActiveCfg = Release|Win32
+		{D4409152-318E-47D3-883D-EFAC9996A93F}.Release|Any CPU.Build.0 = Release|Win32
+		{AC133936-A565-481F-AE7F-D277533FF543}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{AC133936-A565-481F-AE7F-D277533FF543}.Debug|Any CPU.Build.0 = Debug|Win32
+		{AC133936-A565-481F-AE7F-D277533FF543}.Release|Any CPU.ActiveCfg = Release|Win32
+		{AC133936-A565-481F-AE7F-D277533FF543}.Release|Any CPU.Build.0 = Release|Win32
+		{CA92B15E-E666-4062-A657-D1911070191C}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{CA92B15E-E666-4062-A657-D1911070191C}.Debug|Any CPU.Build.0 = Debug|Win32
+		{CA92B15E-E666-4062-A657-D1911070191C}.Release|Any CPU.ActiveCfg = Release|Win32
+		{CA92B15E-E666-4062-A657-D1911070191C}.Release|Any CPU.Build.0 = Release|Win32
+	EndGlobalSection
+EndGlobal
