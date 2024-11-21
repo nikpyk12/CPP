@@ -49,3 +49,5 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 **/Debug/**
 .idea/
+/.vs/CPP/v17
+/.vs/CPP/FileContentIndex
