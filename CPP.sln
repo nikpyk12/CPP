@@ -11,6 +11,9 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Intro", "Intro\Intro.vcxproj", "{D4409152-318E-47D3-883D-EFAC9996A93F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Условные конструкции", "2. Условные конструкции", "{21338D83-BF09-4359-9536-08FD6BFCF7D1}"
+	ProjectSection(SolutionItems) = preProject
+		Условные конструкции.md = Условные конструкции.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stepik", "Stepik", "{00A19707-DD20-4520-AD29-6D808ACECC27}"
 EndProject
@@ -32,6 +35,19 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача 10", "Задача 10\Задача 10.vcxproj", "{26C823BC-6D98-4367-B03A-E46B143676D8}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача Секунды", "Задача Секунды\Задача Секунды.vcxproj", "{A76757B3-5B14-48B2-AE92-A5941DF44DEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Задачи", "Задачи", "{B346B3D6-FE57-416F-9E3D-C53CDED7C17C}"
+	ProjectSection(SolutionItems) = preProject
+		Задача 1 Шахматная ладья.md = Задача 1 Шахматная ладья.md
+		Задача 2 Шахматный король.md = Задача 2 Шахматный король.md
+		Задача 3 Шахматный слон.md = Задача 3 Шахматный слон.md
+		Задача 4 Шахматный ферзь.md = Задача 4 Шахматный ферзь.md
+		Задача 5 Шахматный конь.md = Задача 5 Шахматный конь.md
+		Задача 6 Тип треугольника.md = Задача 6 Тип треугольника.md
+		Задача 12 Грибы.md = Задача 12 Грибы.md
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Условные_конструкции", "Условные_конструкции\Условные_конструкции.vcxproj", "{7818A7B7-6B86-49BA-836C-AFD8063C28F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +83,10 @@ Global
 		{A76757B3-5B14-48B2-AE92-A5941DF44DEF}.Debug|Any CPU.Build.0 = Debug|x64
 		{A76757B3-5B14-48B2-AE92-A5941DF44DEF}.Release|Any CPU.ActiveCfg = Release|x64
 		{A76757B3-5B14-48B2-AE92-A5941DF44DEF}.Release|Any CPU.Build.0 = Release|x64
+		{7818A7B7-6B86-49BA-836C-AFD8063C28F8}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{7818A7B7-6B86-49BA-836C-AFD8063C28F8}.Debug|Any CPU.Build.0 = Debug|Win32
+		{7818A7B7-6B86-49BA-836C-AFD8063C28F8}.Release|Any CPU.ActiveCfg = Release|Win32
+		{7818A7B7-6B86-49BA-836C-AFD8063C28F8}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,6 +100,8 @@ Global
 		{225C4320-9942-4AD4-AD8C-B12547296480} = {FA48CDA2-7E69-45C9-B322-48FA570CF49A}
 		{26C823BC-6D98-4367-B03A-E46B143676D8} = {225C4320-9942-4AD4-AD8C-B12547296480}
 		{A76757B3-5B14-48B2-AE92-A5941DF44DEF} = {225C4320-9942-4AD4-AD8C-B12547296480}
+		{B346B3D6-FE57-416F-9E3D-C53CDED7C17C} = {21338D83-BF09-4359-9536-08FD6BFCF7D1}
+		{7818A7B7-6B86-49BA-836C-AFD8063C28F8} = {21338D83-BF09-4359-9536-08FD6BFCF7D1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {684D0F8E-A6E9-48CF-BF62-90B9A28D2F9B}
