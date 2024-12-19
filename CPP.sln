@@ -27,10 +27,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Задачи", "Задач�
 		Задача 10 Площадь треугольника.md = Задача 10 Площадь треугольника.md
 		Задача 8 Расстояние между точками.md = Задача 8 Расстояние между точками.md
 		Секунды.md = Секунды.md
-		..\..\..\..\aboev\PythonProjects\Python\2. Операции деления\Задачи\Секунды.md = ..\..\..\..\aboev\PythonProjects\Python\2. Операции деления\Задачи\Секунды.md
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача 10", "Задача 10\Задача 10.vcxproj", "{26C823BC-6D98-4367-B03A-E46B143676D8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача Секунды", "Задача Секунды\Задача Секунды.vcxproj", "{A76757B3-5B14-48B2-AE92-A5941DF44DEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +63,10 @@ Global
 		{26C823BC-6D98-4367-B03A-E46B143676D8}.Debug|Any CPU.Build.0 = Debug|x64
 		{26C823BC-6D98-4367-B03A-E46B143676D8}.Release|Any CPU.ActiveCfg = Release|x64
 		{26C823BC-6D98-4367-B03A-E46B143676D8}.Release|Any CPU.Build.0 = Release|x64
+		{A76757B3-5B14-48B2-AE92-A5941DF44DEF}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A76757B3-5B14-48B2-AE92-A5941DF44DEF}.Debug|Any CPU.Build.0 = Debug|x64
+		{A76757B3-5B14-48B2-AE92-A5941DF44DEF}.Release|Any CPU.ActiveCfg = Release|x64
+		{A76757B3-5B14-48B2-AE92-A5941DF44DEF}.Release|Any CPU.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +79,7 @@ Global
 		{016BF599-2F0C-462E-B0CF-F14109E01FF4} = {00A19707-DD20-4520-AD29-6D808ACECC27}
 		{225C4320-9942-4AD4-AD8C-B12547296480} = {FA48CDA2-7E69-45C9-B322-48FA570CF49A}
 		{26C823BC-6D98-4367-B03A-E46B143676D8} = {225C4320-9942-4AD4-AD8C-B12547296480}
+		{A76757B3-5B14-48B2-AE92-A5941DF44DEF} = {225C4320-9942-4AD4-AD8C-B12547296480}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {684D0F8E-A6E9-48CF-BF62-90B9A28D2F9B}
